@@ -1,8 +1,9 @@
-# Product Management System And Admin Panel, Spring Boot, Angular 7, MySQL, Hibernate, Liquibase
+# Product Management System And Admin Panel, Spring Boot, Ionic, Angular 7, MySQL, Hibernate, Liquibase
 
 The application structure is as follows.
 - **server-product-management** - Microservice implemented using Spring boot. [More info](server-product-management/README.md)
 - **client-product-management** - A NodeJs application implemented using Angular 7. This consumes services hosted by server side.  [More info](client-product-management/README.md)
+- **mobile-side** - A NodeJs application implemented using Ionic. This consumes services hosted by server side.  [More info](mobile-side/README.md)
 
 ### Build
 
